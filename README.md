@@ -1,9 +1,9 @@
-Shameless fork of [passmenu][] which simply uses [rofi][] in [dmenu][] mode.
+`passrofi` is a [rofi][]-based interface to [pass][], forked and very lightly modified from from [passmenu][].
 
 # Usage
 
     passrofi [--type]
 
-[passmenu]: https://git.zx2c4.com/password-store/tree/contrib/dmenu/passmenu/
 [rofi]: https://github.com/davatorium/rofi/
-[dmenu]: http://tools.suckless.org/dmenu/
+[pass]: http://www.zx2c4.com/projects/password-store/
+[passmenu]: https://git.zx2c4.com/password-store/tree/contrib/dmenu/passmenu/
